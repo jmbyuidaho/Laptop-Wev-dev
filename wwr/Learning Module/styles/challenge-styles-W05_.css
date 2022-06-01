@@ -1,0 +1,22 @@
+.top-image img{
+    width: 100%;
+    display: block;
+}
+
+.bottom-logo{
+    width: 100%;
+    background-color: rgb(115, 115, 115);
+    height: 500px;
+}
+.bottom-logo img {
+    width: 15%;
+    border-radius: 200px;
+    border: 15px solid rgb(68, 68, 68);
+    margin-top: 50px;
+    margin-left: 12%;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
+    

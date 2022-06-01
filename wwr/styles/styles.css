@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Zen+Maru+Gothic&display=swap');
+
+.home-title {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2em;
+    margin-top: 10px;
+    color: #262626;
+}
+
+.msg h2 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2em;
+    color: #262626;
+}
+.logo {
+    width: 80px;
+    border-radius: 20px;
+}
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#hero img {
+    width: 100%;
+    border: 5px solid gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav a {
+    text-align: center;
+    color: #3176e6;
+    text-decoration: underline;
+    padding: 35px;
+}
+
+#hero-msg h1 {
+    text-align: center;
+}
+
+#hero-msg h4 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#background {
+    height: 725px;
+    background-color: rgb(223, 227, 238);
+}
+
+body {
+    background-color: rgb(242, 246, 252);
+    font-family: 'Zen Maru Gothic', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(223, 227, 238);
+}
+
+nav a:hover {
+    background-color: rgb(139, 157, 195);
+    color: #3176e6;
+}
+
+.book, .join {
+    background-color: rgb(180, 219, 248);
+    color: #0c0c0c;
+    text-decoration: underline;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.book:hover, .join:hover {
+    background-color: rgb(139, 157, 195);
+}
+
+.msg {
+    background-color: rgb(204, 217, 246);
+    line-height: 1.5em;
+    padding-bottom: 15px;
+}
+
+footer {
+    background-color: rgb(204, 217, 246);
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+
+h2 {
+    margin: 0;
+}
+
+h4 {
+    color: #262626;
+}
+
+.book:hover, .join:hover  {
+    color: #71b5ec;
+}
+
+footer h3 {
+    color: #262626;
+}
+
+.msg p {
+    color: #262626;
+    font-size: 0.8em;
+}
+
+footer a:hover {
+    color: #3176e6;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+footer a {
+    color: #262626;
+    text-decoration: underline;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: solid gray;
+}
